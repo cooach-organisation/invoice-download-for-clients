@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Cooach - Downloadable invoices 
+ * Plugin Name: Cooach - invoice download for clients
  * Description: makes invoices generated in the Fortnox integration plugin downloadable in the frontend
  * Version: 1.0
  * Author: Alexander Städtler
